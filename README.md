@@ -1,3 +1,3 @@
 ## Welcome
 
-https://sir0din.github.io/runner
+https://sir0din.github.io/Runner
